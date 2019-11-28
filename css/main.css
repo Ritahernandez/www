@@ -109,6 +109,20 @@ body{
     width: 180%;
     height: 110%;
   }
+
+  img{
+    width: 30%;
+    height: 30%;
+  }
+
+  footer{
+     background: #A17E7E;
+    font-family: 'Comfortaa', cursive;
+    color: #715251;
+    width: 180%;
+    height: 110%;
+
+  }
 p{
   font-family: 'Comfortaa', cursive;
 }
