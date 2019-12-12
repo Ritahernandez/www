@@ -100,29 +100,33 @@ textarea {
 body{
   background:#F1E8E7;
  
+}
+
+.H1
+
+{
+  width: 80%;
+  height:80%;
 
 }
- nav{
+nav{
     background: #A17E7E;
     font-family: 'Comfortaa', cursive;
-    color: #715251;
-    width: 180%;
-    height: 110%;
+    color: #fff;
   }
 
   img{
-    width: 30%;
-    height: 30%;
+    width: 100%;
+    max-width: 100%;
   }
 
-  footer{
-     background: #A17E7E;
-    font-family: 'Comfortaa', cursive;
-    color: #715251;
-    width: 180%;
-    height: 110%;
+footer{
+    background: #A17E7E;
+    width: 100%;
+    height: 120px;
 
   }
+
 p{
   font-family: 'Comfortaa', cursive;
 }
@@ -134,6 +138,68 @@ h1,h3{
 .paragraph{
   font-family: 'Raleway', sans-serif;
 
+}
+
+.title{
+  text-align: center;
+  color: ;
+  padding: 30px;
+}
+
+.name{
+  color: #715251;
+  padding: 30px;
+}
+a:active, a:hover, a:visited{
+  color: #fff;
+}
+
+.biophoto{
+  width: 30%;
+}
+#foto_me{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+#photo_1{
+  margin-top: 70px;
+}
+.photo_2{
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+#index img{
+      margin-top: 90px;
+    margin-bottom: 50px;
+}
+footer a{
+  font-size: 24px;
+}
+#biography p{
+  text-align: center;
+}
+.biophotocontainer{
+  text-align: center;}
+
+.imagenes{
+  margin-top:15px;
+  margin-bottom: 60px;
+}
+.datos{
+  color :#715251;
+  padding: 5%;
+  text-align: center;
+
+}
+
+.datos1{
+  color:#715251;
+  padding : 5%;
+  text-align: center;
+}
+#div_photos{
+      background-color: #715251;
+    height: 403px;
 }
 /* ==========================================================================
    Helper classes
